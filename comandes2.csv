@@ -1,0 +1,27 @@
+id_comanda,id_taula,data_comanda,hora_comanda,nom_plat,categoria_plat,preu,quantitat,i
+d_cambrer,valoracio 
+101,5,2024-06-01,13:30,Paella de Marisc,segon plat,18.50,2,1,5 
+102,12,2024-06-01,13:45,Amanida Verda,primer plat,8.00,1,3,4 
+103,2,2024-06-01,21:00,Entrecot a la brasa,segon plat,22.00,1,2, 
+104,8,2024-06-02,14:15,Gaspatxo,primer plat,7.50,3,5,5 
+105,15,2024-06-02,14:30,Crema Catalana,postres,6.00,2,4,3 
+106,1,2024-06-03,13:10,Vi Negre,beguda,12.00,1,10,4 
+107,3,2024-06-03,13:20,Canelons de la padrina,primer plat,10.50,2,8,5 
+108,19,2024-06-04,20:45,Llobarro al forn,segon plat,19.00,1,7, 
+109,7,2024-06-04,21:15,Pastís de Formatge,postres,7.00,1,6,5 
+110,4,2024-06-05,14:00,Aigua Mineral,beguda,2.50,4,9,2 
+111,10,2024-06-05,14:15,Pizza Margarita,segon plat,11.00,2,1,4 
+112,6,2024-06-06,21:30,Hamburguesa Gourmet,segon plat,14.50,1,3,5 
+113,11,2024-06-06,21:45,Tiramisú,postres,6.50,1,2,4 
+114,9,2024-06-07,13:00,Espaguetis Carbonara,primer plat,9.50,2,5, 
+115,14,2024-06-07,13:20,Cervesa,beguda,3.50,3,4,3 
+116,20,2024-06-08,14:00,Sushi Variat,segon plat,25.00,1,10,5 
+117,2,2024-06-08,21:00,Risotto de Bolets,primer plat,13.00,2,8,4 
+118,5,2024-06-09,14:15,Bacallà amb samfaina,segon plat,17.00,1,7,5 
+119,13,2024-06-09,14:45,Gelat de Vainilla,postres,4.50,3,6, 
+120,18,2024-06-10,13:30,Coca-Cola,beguda,2.80,2,9,4 
+121,12,2024-06-10,20:30,Sopa de Peix,primer plat,11.00,1,1,5 
+122,15,2024-06-11,21:00,Xai al forn,segon plat,21.50,2,3,4 
+123,8,2024-06-11,21:15,Profiteroles,postres,6.00,1,2,3 
+124,1,2024-06-12,13:45,Vi Blanc,beguda,14.00,1,5,5 
+125,7,2024-06-12,14:00,Truita de Patates,primer plat,8.50,1,4,4 
